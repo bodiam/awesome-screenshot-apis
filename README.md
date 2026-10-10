@@ -16,6 +16,7 @@ Need to capture website screenshots programmatically? This list covers APIs, ope
 
 | Service | Free Tier | Pricing | Notes |
 |---------|-----------|---------|-------|
+| [Allscreenshots](https://allscreenshots.com) | 100 lifetime credits | From $10/mo | Full-page capture, dark mode, ad blocking, PDFs, bulk requests. |
 | [GrabShot](https://grabshot.dev) | 25/month | From $9/mo | AI cleanup, OG images, fast. Full-featured REST API. |
 | [ScreenshotOne](https://screenshotone.com) | 100/month | From $29/mo | Geo-targeting, blockers, animations. |
 | [ApiFlash](https://apiflash.com) | 100/month | From $7/mo | Chrome-based, simple API. |
